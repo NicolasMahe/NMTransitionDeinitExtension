@@ -1,0 +1,6 @@
+framework module NMTransitionDeinitExtension {
+  umbrella header "NMTransitionDeinitExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

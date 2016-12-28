@@ -1,0 +1,6 @@
+framework module Pods_NMTransitionDeinitExtension_Tests {
+  umbrella header "Pods-NMTransitionDeinitExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - NMTransitionDeinitExtension (0.0.1)
+
+DEPENDENCIES:
+  - NMTransitionDeinitExtension (from `../`)
+
+EXTERNAL SOURCES:
+  NMTransitionDeinitExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NMTransitionDeinitExtension: 4fab0c4b24a0edb23f032dbd064e6f43c1a18d46
+
+PODFILE CHECKSUM: b57c65dee1e6f5a2b96d9eb256303fcd7c960e0b
+
+COCOAPODS: 1.1.1
